@@ -6,13 +6,11 @@
     "configurations": [
         {
             "name": "productos_app",
-            "cwd": "productos_app",
             "request": "launch",
             "type": "dart"
         },
         {
             "name": "productos_app (profile mode)",
-            "cwd": "productos_app",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
