@@ -121,7 +121,7 @@ class _Email extends StatelessWidget {
             to: [
               'babuchashz@gmail.com',
             ],
-            subject: 'Hola!',
+            subject: 'Hola!!',
             body: '¡Quiero optener mas información de los productos!',
           );
 
